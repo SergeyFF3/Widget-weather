@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop":  true,
+    "module": "esnext",
+    "moduleResolution":"node"
+  },
+  "plugins": [
+    { "transform": "typescript-plugin-css-modules" }
+  ]
+}

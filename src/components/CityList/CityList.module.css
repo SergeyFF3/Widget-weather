@@ -1,0 +1,7 @@
+.cardList {
+    flex: 1 0 16%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
